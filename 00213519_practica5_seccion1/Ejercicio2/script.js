@@ -18,4 +18,5 @@ const carrito = {
     }
 }
 
+// verificacion
 console.log(carrito.precioTotal)

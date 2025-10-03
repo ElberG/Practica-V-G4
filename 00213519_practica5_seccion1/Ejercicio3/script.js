@@ -47,5 +47,6 @@ const estanteria = {
     }
 }
 
+// verificacion
 console.log(estanteria.log())
 console.log(estanteria.sugerencial())
